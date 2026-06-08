@@ -38,11 +38,7 @@ A continuaci√≥n se muestra el circuito implementado en protoboard y su simulaci√
 
 <div align="center">
 
-## Prueba
-
-![Proteus](proteus_p02.jpg)
-
-<img src="proteus_p02.jpeg" width="650">
+!(proteus_p02.jpg)
 
 <br>
 
