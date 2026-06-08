@@ -16,15 +16,14 @@
 
 ## Circuito armado
 
-*Pendiente de agregar imagen*
+<img src="Circuito01.jpg" width="500">
+<img src="Proteus01.jpg" width="500">
 
 ---
 
 ## Desarrollo
 
-En esta práctica se configuró el pin RB0 como salida digital para controlar el encendido de un LED.
-
-Se verificó el funcionamiento de las salidas digitales del microcontrolador mediante la activación del LED conectado al puerto.
+// Explicar el funcionamiento 
 
 ---
 
