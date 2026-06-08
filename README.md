@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logoudem.png" width="350">
+
 # UNIVERSIDAD DE MONTERREY
 
 # Microprocesadores
