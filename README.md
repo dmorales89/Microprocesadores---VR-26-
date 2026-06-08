@@ -35,8 +35,8 @@ Cada práctica incluye:
 
 # Índice de prácticas
 
-| Práctica | Tema | Enlace |
-|---|---|---|
+| Práctica | Tema | 
+|---|---|
 | Práctica 1 | [Ver práctica](Practicas/P01) |
 | Práctica 2 | [Ver práctica](Practicas/P02) |
 | Práctica 3 | [Ver práctica](Practicas/P03) |
