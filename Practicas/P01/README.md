@@ -1,8 +1,5 @@
 # Práctica 01 
 
-## Objetivo: Configurar una salida digital del PIC16F887 para controlar el manejo de salidas digitales, parpadeo de 4 LEDs
-
-
 ## Material utilizado
 
 - PIC16F887
@@ -71,5 +68,6 @@ Mediante esta práctica se reforzaron los conceptos básicos de configuración d
 
 ## Código fuente
 
-```c
-// Pegar aquí el código utilizado
+Debido a que el microcontrolador fue programado mediante un archivo compilado, se adjunta el archivo HEX generado en MPLAB X para su programación.
+
+[Descargar archivo HEX](Practica1.X.production.hex)
