@@ -16,8 +16,8 @@
 
 ## Circuito armado
 
-<img src="Circuito01.jpg" width="500">
-<img src="Proteus01.jpg" width="500">
+<img src="circuito01.jpg" width="350">
+<img src="proteus01.jpg" width="350">
 
 ---
 
