@@ -85,13 +85,13 @@ Mediante esta práctica se reforzaron conceptos relacionados con el manejo de sa
 
 📄 Archivo HEX utilizado para desplegar el conteo del 0 al 9:
 
-- [Practica3_decimal.production.hex](Practica3_decimal.production.hex)
+- [Practica3_decimal.production.hex](Practica3_3.X.production.hex)
 
 ### Parte 2 - Contador hexadecimal
 
 📄 Archivo HEX utilizado para desplegar el conteo hexadecimal del 0 a la F:
 
-- [Practica3_hexadecimal.production.hex](Practica3_hexadecimal.production.hex)
+- [Practica3_hexadecimal.production.hex](Practica_3_hexadecimal.X.production.hex)
 
 ---
 
