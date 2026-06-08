@@ -15,6 +15,8 @@ Programar una matriz LED de 8x8 utilizando el microcontrolador PIC16F887 para de
 - Fuente de alimentación
 - Programador PIC
 - Cables de conexión
+- Botón
+- Cristal de Cuarzo 8 MHz
 
 ---
 
