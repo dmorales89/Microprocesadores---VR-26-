@@ -52,6 +52,10 @@ A continuación se muestra el circuito implementado en protoboard y su simulaci�
 
 ## Desarrollo
 
+### Multiplexación de la matriz LED
+
+Para controlar la matriz LED de 8x8 se utilizó la técnica de multiplexación. Este método consiste en activar una fila o columna a la vez mientras se envían los datos correspondientes a las demás líneas de control. Aunque los LEDs no permanecen encendidos simultáneamente, el proceso ocurre a una velocidad lo suficientemente alta para que el ojo humano perciba una imagen continua. La multiplexación fue fundamental en esta práctica, ya que permitió controlar los 64 LEDs de la matriz utilizando una cantidad reducida de pines del microcontrolador PIC16F887, optimizando los recursos disponibles y facilitando la visualización de diferentes patrones y caracteres.
+
 La práctica se dividió en dos partes con el objetivo de comprender el funcionamiento de una matriz LED de 8x8 y la técnica de multiplexación necesaria para controlar cada uno de sus LEDs.
 
 ### Parte 1: Despliegue de una "X"
