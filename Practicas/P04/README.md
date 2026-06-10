@@ -12,10 +12,11 @@ Programar un contador manual utilizando dos displays de 7 segmentos y el microco
 - 2 Displays de 7 segmentos
 - Protoboard
 - Resistencias
-- 3 Pulsadores
 - Fuente de alimentación
 - Programador PIC
 - Cables de conexión
+- Botones
+- Cristal de Cuarzo 8 MHz 
 
 ---
 
@@ -89,7 +90,7 @@ Mediante esta práctica se reforzaron conceptos relacionados con el manejo de en
 
 📄 Archivo HEX utilizado para programar el contador manual:
 
-- [Practica4.production.hex](Practica4.production.hex)
+- [Practica4.production.hex](Practica_4_Contador.X.production.hex)
 
 ---
 
