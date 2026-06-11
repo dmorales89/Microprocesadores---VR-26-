@@ -93,7 +93,7 @@ Mediante esta práctica se reforzaron conceptos relacionados con el manejo de pa
 
 📄 Archivo HEX utilizado para mostrar el mensaje personalizado y activar el cambio mediante interrupción:
 
-- [Practica6_InterrupcionLCD.production.hex](Practica6.X.production.hex)
+- [Practica6_InterrupcionLCD.production.hex](Practica_6.X.production.hex)
 
 ---
 
