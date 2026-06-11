@@ -12,11 +12,12 @@ Programar una pantalla LCD utilizando el microcontrolador PIC16F887 para mostrar
 - Pantalla LCD 16x2
 - Protoboard
 - Potenciómetro
-- Pulsador
 - Resistencias
 - Fuente de alimentación
 - Programador PIC
 - Cables de conexión
+- Botones
+- Cristal de Cuarzo 8 MHz 
 
 ---
 
@@ -86,13 +87,13 @@ Mediante esta práctica se reforzaron conceptos relacionados con el manejo de pa
 
 📄 Archivo HEX utilizado para mostrar el mensaje fijo y la secuencia de caracteres:
 
-- [Practica6_HelloWorld.production.hex](Practica6_HelloWorld.production.hex)
+- [Practica6_HelloWorld.production.hex](Practica6_Clase.X.production.hex)
 
 ### Parte 2 - Mensaje personalizado e interrupción
 
 📄 Archivo HEX utilizado para mostrar el mensaje personalizado y activar el cambio mediante interrupción:
 
-- [Practica6_InterrupcionLCD.production.hex](Practica6_InterrupcionLCD.production.hex)
+- [Practica6_InterrupcionLCD.production.hex](Practica6.X.production.hex)
 
 ---
 
