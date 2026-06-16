@@ -12,8 +12,8 @@ Programar un contador de cuatro dígitos utilizando el microcontrolador PIC16F88
 - 4 Displays de 7 segmentos
 - Protoboard
 - Resistencias
-- 2 Pulsadores
-- Cristal oscilador
+- Botones
+- Cristal de Cuarzo 8 MHz
 - Fuente de alimentación
 - Programador PIC
 - Cables de conexión
