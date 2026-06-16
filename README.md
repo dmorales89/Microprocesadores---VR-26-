@@ -45,6 +45,7 @@ Cada práctica incluye:
 | Práctica 6 | [Ver práctica](Practicas/P06) |
 | Práctica 7 | [Ver práctica](Practicas/P07) |
 | Práctica 8 | [Ver práctica](Practicas/P08) |
+| Proyecto U1 | [Ver proyecto](Practicas/PU1) |
 | Práctica 9 | [Ver práctica](Practicas/P09) |
 | Práctica 10 | [Ver práctica](Practicas/P10) |
 | Práctica 11 | [Ver práctica](Practicas/P11) |
