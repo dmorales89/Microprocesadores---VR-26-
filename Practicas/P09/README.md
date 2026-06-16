@@ -93,13 +93,13 @@ Mediante esta práctica se reforzaron conceptos relacionados con el manejo de pa
 
 📄 Archivo HEX utilizado para el temporizador:
 
-- [Practica9_Timer.production.hex](Practica9_Timer.production.hex)
+- [Practica9_Timer.production.hex](Practica_9.X.production.hex)
 
 ### Parte 2 - Medición de voltaje
 
 📄 Archivo HEX utilizado para la lectura de voltaje mediante ADC:
 
-- [Practica9_ADC.production.hex](Practica9_ADC.production.hex)
+- [Practica9_ADC.production.hex](Practica_9_Volt_Timer.X.production.hex)
 
 ---
 
