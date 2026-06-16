@@ -35,17 +35,25 @@ A continuación se muestra el circuito implementado en protoboard para el tempor
 
 *Figura 1. Circuito armado en protoboard.*
 
-</div>
-
-<br><br>
+<br>
 
 <div align="center">
+
+<img src="circuito_p9.jpeg" width="450">
+
+<br>
+
+*Figura 2. Circuito 2 armado en protoboard.*
+
+</div>
+
+<br>
 
 <img src="proteus_p09.jpeg" width="800">
 
 <br>
 
-*Figura 2. Simulación del circuito en Proteus.*
+*Figura 3. Simulación del circuito en Proteus.*
 
 </div>
 
