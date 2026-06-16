@@ -88,7 +88,7 @@ Mediante esta práctica se reforzaron conceptos relacionados con la multiplexaci
 
 📄 Archivo HEX utilizado para el contador de cuatro dígitos:
 
-- [Practica5.production.hex](Practica5.production.hex)
+- [Practica5.production.hex](Practica5C.X.production.hex)
 
 ---
 
