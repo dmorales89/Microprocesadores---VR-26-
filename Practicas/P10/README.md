@@ -1,4 +1,4 @@
-# Práctica 09 - Temporizador y medición de voltaje utilizando Timer1
+# Práctica 10 - Temporizador y medición de voltaje utilizando Timer1
 
 ## Objetivo
 
@@ -34,6 +34,26 @@ A continuación se muestra el circuito implementado en protoboard para el tempor
 <br>
 
 *Figura 1. Circuito armado en protoboard.*
+
+<br>
+
+<div align="center">
+
+<img src="circuito_p010.jpeg" width="450">
+
+<br>
+
+*Figura 2. Circuito 2 armado en protoboard.*
+
+</div>
+
+<br>
+
+<img src="proteus_p10.jpeg" width="800">
+
+<br>
+
+*Figura 3. Simulación del circuito en Proteus.*
 
 </div>
 
@@ -77,13 +97,13 @@ Mediante esta práctica se reforzaron conceptos relacionados con el manejo de pa
 
 📄 Archivo HEX utilizado para el temporizador:
 
-- [Practica9_Timer1.production.hex](Practica_10.X.production.hex)
+- [Practica10_Timer1.production.hex](Practica_10.X.production.hex)
 
 ### Parte 2 - Medición de voltaje mediante ADC
 
 📄 Archivo HEX utilizado para la lectura de voltaje:
 
-- [Practica9_ADC.production.hex](Practica_10_Tiempo.X.production.hex)
+- [Practica10_ADC.production.hex](Practica_10_Tiempo.X.production.hex)
 
 ---
 
