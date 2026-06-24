@@ -22,17 +22,29 @@ Implementar un protocolo de comunicación entre dos microcontroladores PIC16F887
 
 ## Circuito armado
 
-A continuación se muestra la simulación implementada en Proteus para la comunicación entre los dos microcontroladores y el control del servomotor.
+A continuación se muestra el circuito implementado en protoboard y su simulación en Proteus.
 
 <br>
 
 <div align="center">
 
-<img src="proteus_p15.jpeg" width="900">
+<img src="circuito_p15.jpeg" width="450">
 
 <br>
 
-*Figura 1. Simulación en Proteus.*
+*Figura 1. Circuito armado en protoboard.*
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="proteus_p15.jpeg" width="800">
+
+<br>
+
+*Figura 2. Simulación del sistema en Proteus.*
 
 </div>
 
