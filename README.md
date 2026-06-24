@@ -51,6 +51,10 @@ Cada práctica incluye:
 | Práctica 11 | [Ver práctica](Practicas/P11) |
 | Práctica 12 | [Ver práctica](Practicas/P12) |
 | Práctica 13 | [Ver práctica](Practicas/P13) |
+| Práctica 14 | [Ver práctica](Practicas/P14) |
+| Práctica 15 | [Ver práctica](Practicas/P15) |
+| Proyecto F1 | [Ver proyecto](Practicas/PF1) |
+
 
 ---
 
