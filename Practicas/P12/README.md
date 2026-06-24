@@ -1,4 +1,4 @@
-# Práctica 12 - Teclado matricial y calculadora básica
+# Práctica 12 - Teclado matricial
 
 ## Objetivo
 
