@@ -28,7 +28,7 @@ A continuaci√≥n se muestra el circuito implementado en protoboard y su simulaci√
 
 <div align="center">
 
-<img src="circuito_p10.jpeg" width="450">
+<img src="circuito_p12.jpeg" width="450">
 
 <br>
 
@@ -38,7 +38,7 @@ A continuaci√≥n se muestra el circuito implementado en protoboard y su simulaci√
 
 <div align="center">
 
-<img src="circuito_p010.jpeg" width="450">
+<img src="circuitop12.jpeg" width="450">
 
 <br>
 
@@ -48,7 +48,7 @@ A continuaci√≥n se muestra el circuito implementado en protoboard y su simulaci√
 
 <br>
 
-<img src="proteus_p10.jpeg" width="800">
+<img src="proteus_p12.jpeg" width="800">
 
 <br>
 
