@@ -28,23 +28,31 @@ A continuación se muestra el circuito implementado en protoboard y su simulaci�
 
 <div align="center">
 
-<img src="circuito_p12.jpeg" width="450">
+<img src="circuito_p10.jpeg" width="450">
 
 <br>
 
 *Figura 1. Circuito armado en protoboard.*
 
-</div>
-
-<br><br>
+<br>
 
 <div align="center">
 
-<img src="proteus_p12.jpeg" width="800">
+<img src="circuito_p010.jpeg" width="450">
 
 <br>
 
-*Figura 2. Simulación del sistema en Proteus.*
+*Figura 2. Circuito 2 armado en protoboard.*
+
+</div>
+
+<br>
+
+<img src="proteus_p10.jpeg" width="800">
+
+<br>
+
+*Figura 3. Simulación del circuito en Proteus.*
 
 </div>
 
@@ -86,13 +94,13 @@ Mediante esta práctica se reforzaron conceptos relacionados con el manejo de te
 
 📄 Archivo HEX utilizado para mostrar los caracteres en la LCD:
 
-- [Practica12_Teclado.production.hex](Practica12_Teclado.production.hex)
+- [Practica12_Teclado.production.hex](Practica_12.X.production.hex)
 
 ### Parte 2 - Calculadora básica
 
 📄 Archivo HEX utilizado para la calculadora:
 
-- [Practica12_Calculadora.production.hex](Practica12_Calculadora.production.hex)
+- [Practica12_Calculadora.production.hex](Practica_12_CALC.X.production.hex)
 
 ---
 
