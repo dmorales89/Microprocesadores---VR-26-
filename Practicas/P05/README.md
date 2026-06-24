@@ -1,4 +1,4 @@
-# Práctica 05 - Contador de 4 dígitos con displays de 7 segmentos
+# Práctica 05 - Multiplexación e Interrupciones
 
 ## Objetivo
 
