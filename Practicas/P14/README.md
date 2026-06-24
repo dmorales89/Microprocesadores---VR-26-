@@ -1,4 +1,4 @@
-# Práctica 14 - Control de servomotores
+# Práctica 14 - Servomotores
 
 ## Objetivo
 
