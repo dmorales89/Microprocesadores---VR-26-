@@ -1,4 +1,4 @@
-# Práctica 10 - Temporizador y medición de voltaje utilizando Timer1
+# Práctica 10 - Timer 1
 
 ## Objetivo
 
