@@ -38,21 +38,41 @@ A continuación se muestra el circuito implementado en protoboard y su simulaci�
 
 *Figura 1. Circuito armado en protoboard.*
 
-</div>
-
-<br><br>
+<br>
 
 <div align="center">
+
+<img src="circuitop13.jpeg" width="450">
+
+<br>
+
+*Figura 2. Circuito 2 armado en protoboard.*
+
+</div>
+
+<br>
 
 <img src="proteus_p13.jpeg" width="800">
 
 <br>
 
-*Figura 2. Simulación del sistema en Proteus.*
+*Figura 3. Simulación del circuito en Proteus.*
 
 </div>
 
 <br>
+
+<div align="center">
+
+<img src="proteusp13.jpeg" width="800">
+
+<br>
+
+*Figura 4. Simulación del circuito 2 en Proteus.*
+
+<br>
+
+</div>
 
 ---
 
