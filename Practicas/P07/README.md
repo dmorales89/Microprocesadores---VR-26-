@@ -1,4 +1,4 @@
-# Práctica 07 - Lectura de entradas analógicas y visualización en LCD
+# Práctica 07 - Lectura Analógica 
 
 ## Objetivo
 
