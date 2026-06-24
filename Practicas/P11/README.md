@@ -22,29 +22,31 @@ Implementar el control de intensidad luminosa de LEDs utilizando la técnica de 
 
 ## Circuito armado
 
-A continuación se muestra la simulación implementada en Proteus para el control de intensidad de los LEDs.
+A continuación se muestra el circuito implementado en protoboard y su simulación en Proteus.
 
 <br>
 
 <div align="center">
 
-<img src="proteus_p11.jpeg" width="850">
+<img src="circuito_p11.jpeg" width="450">
 
 <br>
 
-*Figura 1. Simulación del sistema de control de intensidad mediante PWM.*
+*Figura 1. Circuito armado en protoboard.*
 
 </div>
 
-<br>
+<br><br>
 
-*Figura 2. Circuito 2 armado en protoboard.*
-
-</div>
-
-<br>
+<div align="center">
 
 <img src="proteus_p11.jpeg" width="800">
+
+<br>
+
+*Figura 2. Simulación del circuito en Proteus.*
+
+</div>
 
 <br>
 
