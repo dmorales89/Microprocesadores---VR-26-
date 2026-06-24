@@ -25,17 +25,29 @@ Desarrollar un videojuego interactivo utilizando el microcontrolador PIC16F887, 
 
 ## Circuito armado
 
-A continuación se muestra la simulación implementada en Proteus del juego interactivo.
+A continuación se muestra el circuito implementado en protoboard y su simulación en Proteus.
 
 <br>
 
 <div align="center">
 
-<img src="proteus_pf.jpeg" width="900">
+<img src="circuito_pf.jpeg" width="450">
 
 <br>
 
-*Figura 1. Simulación del proyecto final en Proteus.*
+*Figura 1. Circuito armado en protoboard.*
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="proteus_pf.jpeg" width="800">
+
+<br>
+
+*Figura 2. Simulación del sistema en Proteus.*
 
 </div>
 
@@ -91,7 +103,7 @@ Mediante este proyecto se reforzaron conceptos relacionados con programación es
 
 📄 Archivo HEX utilizado para el juego interactivo:
 
-- [ProyectoFinal.production.hex](Practica_12_.X.production (1).hex)
+- [ProyectoFinal.production.hex](PF.X.production.hex)
 
 ---
 
