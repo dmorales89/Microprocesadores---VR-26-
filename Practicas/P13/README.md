@@ -1,4 +1,4 @@
-# Práctica 13 - Control de motores DC
+# Práctica 13 -  Motor DC
 
 ## Objetivo
 
