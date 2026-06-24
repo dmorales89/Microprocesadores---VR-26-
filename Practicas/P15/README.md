@@ -84,13 +84,13 @@ Mediante este proyecto se reforzaron conceptos relacionados con comunicación se
 
 📄 Archivo HEX utilizado para la adquisición y transmisión de datos:
 
-- [PIC_Transmisor.production.hex](PIC_Transmisor.production.hex)
+- [PIC_Transmisor.production.hex](Practica15.X.production.hex)
 
 ### PIC Receptor
 
 📄 Archivo HEX utilizado para la recepción de datos y control del servomotor:
 
-- [PIC_Receptor.production.hex](PIC_Receptor.production.hex)
+- [PIC_Receptor.production.hex](Practica_15.X.production.hex)
 
 ---
 
