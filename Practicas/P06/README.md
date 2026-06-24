@@ -1,4 +1,4 @@
-# Práctica 06 - Mensajes en LCD e interrupción externa
+# Práctica 06 - Display LCD 16x2
 
 ## Objetivo
 
