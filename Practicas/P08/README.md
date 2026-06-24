@@ -1,4 +1,4 @@
-# Práctica 08 - Lectura de múltiples entradas analógicas mediante interrupciones
+# Práctica 08 - Multiple Lectura Analógica 
 
 ## Objetivo
 
