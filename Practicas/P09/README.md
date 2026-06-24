@@ -1,4 +1,4 @@
-# Práctica 09 - Temporizador y medición de voltaje con LCD
+# Práctica 09 - Timer 0 
 
 ## Objetivo
 
