@@ -32,7 +32,7 @@ A continuación se muestra la simulación implementada en Proteus para la comuni
 
 <br>
 
-*Figura 1. Simulación del proyecto final en Proteus.*
+*Figura 1. Simulación en Proteus.*
 
 </div>
 
