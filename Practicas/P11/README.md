@@ -1,4 +1,4 @@
-# Práctica 11 - Control de intensidad mediante PWM
+# Práctica 11 - PWM por Hardware y PWM por Software
 
 ## Objetivo
 
@@ -70,19 +70,13 @@ Mediante esta práctica se reforzaron conceptos relacionados con el convertidor 
 
 ---
 
-## Archivos de programación
+## Archivo de programación
 
-### Parte 1 - PWM Hardware
-
-📄 Archivo HEX utilizado para el control de intensidad mediante PWM Hardware:
-
-- [Practica11_PWMHardware.production.hex](Practica11_PWMHardware.production.hex)
-
-### Parte 2 - PWM Hardware y PWM Software
+### PWM Hardware y PWM Software
 
 📄 Archivo HEX utilizado para el control simultáneo de dos LEDs:
 
-- [Practica11_PWMDual.production.hex](Practica11_PWMDual.production.hex)
+- [Practica11_PWMDual.production.hex](Practica_11.X.production.hex)
 
 ---
 
