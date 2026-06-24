@@ -38,6 +38,16 @@ A continuación se muestra la simulación implementada en Proteus para el contro
 
 <br>
 
+*Figura 2. Circuito 2 armado en protoboard.*
+
+</div>
+
+<br>
+
+<img src="proteus_p11.jpeg" width="800">
+
+<br>
+
 ---
 
 ## Desarrollo
