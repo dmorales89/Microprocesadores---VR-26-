@@ -1,4 +1,4 @@
-# Práctica 04 - Contador manual con dos displays de 7 segmentos
+# Práctica 04 - Entradas Digitales 
 
 ## Objetivo
 
